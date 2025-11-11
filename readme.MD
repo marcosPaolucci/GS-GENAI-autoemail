@@ -33,19 +33,6 @@ Para rodar este projeto, você precisa configurar suas chaves de API e credencia
 
 Certifique-se de ter um arquivo `requirements.txt` com o conteúdo abaixo e instale-o:
 
-```txt
-# requirements.txt
-langchain
-langgraph
-langchain-openai
-streamlit
-google-api-python-client
-google-auth-oauthlib
-google-auth-httplib2
-python-dotenv
-Bash
-```
-
 ```bash
 pip install -r requirements.txt
 ```
