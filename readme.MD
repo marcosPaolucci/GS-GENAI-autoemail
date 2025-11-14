@@ -104,3 +104,12 @@ Seu navegador abrirá automaticamente.
 4. Clique em um e-mail para que a IA o processe.  
 5. Revise a análise e o rascunho de resposta.  
 6. Edite (se necessário) e clique em **Aprovar e Enviar**.
+
+## 👨‍💻 Autoria
+
+| Nome                               | RM     |
+|------------------------------------|--------|
+| Marcos Paolucci Salamondac         | 554941 |
+| Sandron Oliveira Silva             | 557172 |
+| Nickolas Alexandre de Oliveira Ferraz | 558458 |
+
